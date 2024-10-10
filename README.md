@@ -28,36 +28,31 @@ The final physical network design is diagrammed in the figure below:
 ## Research specific device manufacturers and models for purchasing
 The physical components that will make up the final physical network design are a firewall, managed switch, and Mini PC. The following will provide insight into the specific manufacturers and devices that our home lab network will utilize.
 ### Firewall (Netgate SG – 1100) Cost: $210
-<ul>
-    <li><strong>Purpose-built pfSense firewall device</strong></li>
-    <li><strong>Reputable manufacturer</strong></li>
-    <li><strong>Compact form factor</strong></li>
-    <li><strong>Powerful performance for size</strong></li>
-    <li><strong>PfSense Plus software pre-installed</strong></li>
-    <li><strong>Strong support and user community</strong></li>
-    <li><strong>IP-Sec VPN</strong></li>
-    <li><strong>VLAN</strong></li>
-</ul>
+- Purpose-built pfSense firewall device
+- Reputable manufacturer
+- Compact form factor
+- Powerful performance for size
+- PfSense Plus software pre-installed
+- Strong support and user community
+- IP-Sec VPN
+- VLAN
 
 ### Managed Switch (NETGEAR 8-Port Gigabit Ethernet Plus Switch (GS108Ev3)) Cost: $45
-<ul>
-    <li><strong>Segmentation and performance capabilities</strong></li>
-    <li><strong>SNMP can help track network performance and troubleshoot</strong></li>
-    <li><strong>Port security with MAC address filtering</strong></li>
-    <li><strong>Remote management through web interface</strong></li>
-    <li><strong>8 ports allow scalability</strong></li>
-    <li><strong>Compact design and cost effective</strong></li>
-</ul>
+- Segmentation and performance capabilities
+- SNMP can help track network performance and troubleshoot
+- Port security with MAC address filtering
+- Remote management through web interface
+- 8 ports allow scalability
+- Compact design and cost effective
+
 
 ### Mini-PC or NUCbox (GMKtec M5) Cost: $330
-<ul>
-    <li><strong>Powerful and compact</strong></li>
-    <li><strong>AMD Ryzen 7 5700U processor, 4 cores/16 threads, 4.3 GHz, 32 GB RAM, 1 TB SSD</strong></li>
-    <li><strong>Much more affordable than Intel-based NUCbox with similar specifications</strong></li>
-    <li><strong>Low power consumption</strong></li>
-    <li><strong>Expandability to upgrade RAM and storage</strong></li>
-    <li><strong>Flexibility to use as a virtualization environment, network appliance, host services</strong></li>
-</ul>
+- Powerful and compact
+- AMD Ryzen 7 5700U processor, 4 cores/16 threads, 4.3 GHz, 32 GB RAM, 1 TB SSD
+- Much more affordable than Intel-based NUCbox with similar specifications
+- Low power consumption
+- Expandability to upgrade RAM and storage
+- Flexibility to use as a virtualization environment, network appliance, host services
 
 
 ## Final decision and purchase of network components
