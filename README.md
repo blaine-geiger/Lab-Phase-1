@@ -5,28 +5,28 @@ The design of the home lab will serve the purpose of providing an environment fo
 
 ## Research network designs and configurations
 There are many different home lab network designs and configurations that can be considered. However, with this being my first purpose-built lab for learning experiences, lower cost components will be desired. A dedicated firewall device, a router, and a managed switch were devices that I knew I wanted to include in my home lab. Regardless of other design considerations, these devices were essential.
-My computing and processing needs could be fulfilled using various methods, each with their own benefits and disadvantages. Details of the different methods are listed in the table below.</p>
+My computing and processing needs could be fulfilled using various methods, each with their own benefits and disadvantages. Details of the different methods are listed in the table below.
 
 <p align="center">
   <br/>
-  <img src="https://imgur.com/REnPNMK.png" height="80%" width="80%" alt="Table1.1"/><br /><br />
+  <img src="https://imgur.com/pPOIJ4l.png" height="80%" width="80%" alt="Table"/><br /><br />
 </p>
 
 ## Determine final physical network design and network device types
-Based on my research of these possible designs, while considering cost, performance, flexibility, scalability, power consumption, and physical space, I have decided to use a single, but powerful, NUCbox for my computing and processing requirements. This will provide enough performance to meet my goals, while maintaining the opportunity to expand and increase scale if needed. This design may also be shifted into a hybrid design by adding and clustering additional NUCboxes later.</p>
+Based on my research of these possible designs, while considering cost, performance, flexibility, scalability, power consumption, and physical space, I have decided to use a single, but powerful, NUCbox for my computing and processing requirements. This will provide enough performance to meet my goals, while maintaining the opportunity to expand and increase scale if needed. This design may also be shifted into a hybrid design by adding and clustering additional NUCboxes later.
 
-<p>The final physical design of the home lab network will consist of a firewall, a managed switch, and a single PC with a virtualization environment, capable of running multiple simultaneous virtual machine (VM) instances. Virtualization software can optimize performance by dynamically allocating resources such as CPU, RAM, and storage. It will provide high flexibility with the ability to build and run custom VMs that meet the needs for exploring and testing specific scenarios.</p>
+The final physical design of the home lab network will consist of a firewall, a managed switch, and a single PC with a virtualization environment, capable of running multiple simultaneous virtual machine (VM) instances. Virtualization software can optimize performance by dynamically allocating resources such as CPU, RAM, and storage. It will provide high flexibility with the ability to build and run custom VMs that meet the needs for exploring and testing specific scenarios.
   
-<p>The final physical network design is diagrammed in the figure below:</p>
+The final physical network design is diagrammed in the figure below:
 
 <p align="center">
   <br/>
-  <img src="https://imgur.com/ck9dgGX.png" height="80%" width="80%" alt="Table1.1"/><br /><br />
+  <img src="https://imgur.com/ck9dgGX.png" height="80%" width="80%" alt="Figure"/><br /><br />
 </p>
 
 
 ## Research specific device manufacturers and models for purchasing
-The physical components that will make up the final physical network design are a firewall, managed switch, and Mini PC. The following will provide insight into the specific manufacturers and devices that our home lab network will utilize. </p>
+The physical components that will make up the final physical network design are a firewall, managed switch, and Mini PC. The following will provide insight into the specific manufacturers and devices that our home lab network will utilize.
 ### Firewall (Netgate SG – 1100) Cost: $210
 <ul>
     <li><strong>Purpose-built pfSense firewall device</strong></li>
@@ -61,7 +61,7 @@ The physical components that will make up the final physical network design are 
 
 
 ## Final decision and purchase of network components
-After extensive research and planning, I have decided that the specific devices listed above will best serve the purposes for the home lab design. This considers the proposed use and expectations of the lab. Cost, energy consumption, physical space, noise levels, performance, flexibility, and scalability are other factors that influenced the final decision-making process.</p>
+After extensive research and planning, I have decided that the specific devices listed above will best serve the purposes for the home lab design. This considers the proposed use and expectations of the lab. Cost, energy consumption, physical space, noise levels, performance, flexibility, and scalability are other factors that influenced the final decision-making process.
 
 
 
