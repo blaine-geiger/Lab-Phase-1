@@ -1,4 +1,4 @@
-# Home Lab Phase 1
+# Lab Phase 1: Design and equiment considerations
 
 ## Define use and expectations of network
 The design of the home lab will serve the purpose of providing an environment for experimentation, analysis, reinforcing knowledge, and learning new skills. The main areas of focus will be networking, data communications, and cybersecurity. Exploring these areas in depth in a controlled environment will provide a better understanding of these topics and hands-on experience with different hardware and software. This provides a setting where testing, performing simulated attacks, and exploring vulnerabilities can be done safely and ethically.
