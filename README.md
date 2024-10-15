@@ -27,36 +27,32 @@ The final physical network design is diagrammed in the figure below:
 
 ## Research specific device manufacturers and models for purchasing
 The physical components that will make up the final physical network design are a firewall, managed switch, and Mini PC. The following will provide insight into the specific manufacturers and devices that our home lab network will utilize.
-### Firewall (Netgate SG – 1100) Cost: $210
-- Purpose-built pfSense firewall device
+### General Purpose SOHO Firewall
 - Reputable manufacturer
 - Compact form factor
 - Powerful performance for size
-- PfSense Plus software pre-installed
 - Strong support and user community
-- IP-Sec VPN
-- VLAN
+- Advanced features
 
-### Managed Switch (NETGEAR 8-Port Gigabit Ethernet Plus Switch (GS108Ev3)) Cost: $45
+
+### Managed Switch
 - Segmentation and performance capabilities
-- SNMP can help track network performance and troubleshoot
-- Port security with MAC address filtering
-- Remote management through web interface
+- Advanced features VPN, VLANs, port mirroring
 - 8 ports allow scalability
 - Compact design and cost effective
 
 
-### Mini-PC or NUCbox (GMKtec M5) Cost: $330
+### Medium Spec Mini-PC
 - Powerful and compact
-- AMD Ryzen 7 5700U processor, 4 cores/16 threads, 4.3 GHz, 32 GB RAM, 1 TB SSD
-- Much more affordable than Intel-based NUCbox with similar specifications
+- AMD processor, 4 cores/16 threads, 4.3 GHz, 32 GB RAM, 1 TB SSD
+- Much more affordable than Intel-based options with similar specifications
 - Low power consumption
 - Expandability to upgrade RAM and storage
-- Flexibility to use as a virtualization environment, network appliance, host services
+- Flexibility to be reconfigured as a network appliance or host services in the future if needed
 
 
 ## Final decision and purchase of network components
-After extensive research and planning, I have decided that the specific devices listed above will best serve the purposes for the home lab design. This considers the proposed use and expectations of the lab. Cost, energy consumption, physical space, noise levels, performance, flexibility, and scalability are other factors that influenced the final decision-making process.
+After extensive research and planning, I have decided that the devices listed above will best serve the purposes for the home lab design. This considers the proposed use and expectations of the lab. Cost, energy consumption, physical space, noise levels, performance, flexibility, and scalability are other factors that influenced the final decision-making process.
 
 
 
