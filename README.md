@@ -4,7 +4,7 @@
 The design of the home lab will serve the purpose of providing an environment for experimentation, analysis, reinforcing knowledge, and learning new skills. The main areas of focus will be networking, data communications, and cybersecurity. Exploring these areas in depth in a controlled environment will provide a better understanding of these topics and hands-on experience with different hardware and software. This provides a setting where testing, performing simulated attacks, and exploring vulnerabilities can be done safely and ethically.
 
 ## Research network designs and configurations
-There are many different home lab network designs and configurations that can be considered. However, with this being my first purpose-built lab for learning experiences, lower cost components will be desired. A dedicated firewall device, a router, and a managed switch were devices that I knew I wanted to include in my home lab. Regardless of other design considerations, these devices were essential.
+There are many different home lab network designs and configurations that can be considered. However, with this being my first purpose-built lab for learning experiences, lower cost components will be desired. A dedicated firewall device and a managed switch were devices that I knew I wanted to include in my home lab. Regardless of other design considerations, these devices were essential.
 My computing and processing needs could be fulfilled using various methods, each with their own benefits and disadvantages. Details of the different methods are listed in the table below.
 
 <p align="center">
@@ -26,7 +26,7 @@ The final physical network design is diagrammed in the figure below:
 
 
 ## Research specific device manufacturers and models for purchasing
-The physical components that will make up the final physical network design are a firewall, managed switch, and Mini PC. The following will provide insight into the specific manufacturers and devices that our home lab network will utilize.
+The physical components that will make up the final physical network design are a firewall, managed switch, and Mini PC. The following will provide insight into the rationale for these devices.
 ### General Purpose SOHO Firewall
 - Reputable manufacturer
 - Compact form factor
