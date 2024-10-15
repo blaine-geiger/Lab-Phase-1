@@ -21,7 +21,7 @@ The final physical network design is diagrammed in the figure below:
 
 <p align="center">
   <br/>
-  <img src="https://imgur.com/ck9dgGX.png" height="80%" width="80%" alt="Figure"/><br /><br />
+  <img src="https://imgur.com/H4sgfGe.png" height="80%" width="80%" alt="Figure"/><br /><br />
 </p>
 
 
