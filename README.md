@@ -9,7 +9,7 @@ My computing and processing needs could be fulfilled using various methods, each
 
 <p align="center">
   <br/>
-  <img src="https://imgur.com/pPOIJ4l.png" height="80%" width="80%" alt="Table"/><br /><br />
+  <img src="https://i.imgur.com/pPOIJ4l.png" height="80%" width="80%" alt="Table"/><br /><br />
 </p>
 
 ## Determine final physical network design and network device types
@@ -21,7 +21,7 @@ The final physical network design is diagrammed in the figure below:
 
 <p align="center">
   <br/>
-  <img src="https://imgur.com/H4sgfGe.png" height="80%" width="80%" alt="Figure"/><br /><br />
+  <img src="https://i.imgur.com/H4sgfGe.png" height="80%" width="80%" alt="Figure"/><br /><br />
 </p>
 
 
