@@ -7,10 +7,11 @@ The design of the home lab will serve the purpose of providing an environment fo
 There are many different home lab network designs and configurations that can be considered. However, with this being my first purpose-built lab for learning experiences, lower cost components will be desired. A dedicated firewall device and a managed switch were devices that I knew I wanted to include in my home lab. Regardless of other design considerations, these devices were essential.
 My computing and processing needs could be fulfilled using various methods, each with their own benefits and disadvantages. Details of the different methods are listed in the table below.
 
-<p align="center">
-  <br/>
-  <img src="https://i.imgur.com/pPOIJ4l.png" height="80%" width="80%" alt="Table"/><br /><br />
-</p>
+<div align="center">
+  
+  ![Description of Image](https://raw.githubusercontent.com/blaine-geiger/Lab-Phase-1/6bfecc0fc48da30e27182460003f3453a4d5d018/design_options.png)
+  
+</div>
 
 ## Determine final physical network design and network device types
 Based on my research of these possible designs, while considering cost, performance, flexibility, scalability, power consumption, and physical space, I have decided to use a single, but powerful, NUCbox for my computing and processing requirements. This will provide enough performance to meet my goals, while maintaining the opportunity to expand and increase scale if needed. This design may also be shifted into a hybrid design by adding and clustering additional NUCboxes later.
@@ -19,10 +20,11 @@ The final physical design of the home lab network will consist of a firewall, a 
   
 The final physical network design is diagrammed in the figure below:
 
-<p align="center">
-  <br/>
-  <img src="https://i.imgur.com/H4sgfGe.png" height="80%" width="80%" alt="Figure"/><br /><br />
-</p>
+<div align="center">
+  
+  ![Description of Image](https://raw.githubusercontent.com/blaine-geiger/Lab-Phase-1/e99b645256e8269a782d7f73529de67e51c40a14/network_final.png)
+  
+</div>
 
 
 ## Research specific device manufacturers and models for purchasing
